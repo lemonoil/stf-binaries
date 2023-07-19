@@ -1,13 +1,13 @@
 {
   "name": "stf-binaries",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "repo store stf binaries",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/codeskyblue/stf-binaries.git",
+    "url": "https://github.com/lemonoil/stf-binaries.git",
     "type": "git"
   },
-  "author": "codeskyblue <codeskyblue@gmail.com>",
+  "author": "duanyu <duanyu.lmy@alibaba-inc.com>",
   "license": "MIT",
   "dependencies": {
     "@devicefarmer/minicap-prebuilt": "^2.6.0",
